@@ -1,8 +1,9 @@
 ---
 layout: single
 title: "First GitHub blog"
+---
 
-#First GitHub Post
+# What is Whitepaper?
 
 Whitepaper 백서란?
 
