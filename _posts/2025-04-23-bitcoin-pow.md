@@ -2,9 +2,8 @@
 layout: single
 title: "The True Energy Cost of Bitcoin PoW"
 ---
-# The True Energy Cost of Bitcoin PoW
 
-비트코인 채굴이라는게 꼭 필요할까? 다른 방법은 없을까? 
+'비트코인 채굴이라는게 꼭 필요할까? 다른 방법은 없을까?'
 
 블록체인을 공부하다 보니 문득 비트코인을 채굴을 하면서 드는 에너지와 비용이 아깝다는 생각이 들었다.
 찾아보니 나만 이런 생각을 하는 게 아니라는 것을 알았다. 
