@@ -1,6 +1,6 @@
 ---
 layout: single
-Title: "The True Energy Cost of Bitcoin PoW"
+title: "The True Energy Cost of Bitcoin PoW"
 ---
 # The True Energy Cost of Bitcoin PoW
 
