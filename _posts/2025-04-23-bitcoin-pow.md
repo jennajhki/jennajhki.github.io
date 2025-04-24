@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "The True Energy Cost of Bitcoin PoW"
+comments: true 
 ---
 
 '비트코인 채굴이라는게 꼭 필요할까? 다른 방법은 없을까?'
