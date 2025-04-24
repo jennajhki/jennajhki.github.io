@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "First GitHub blog"
+title: "Crypto Whitepapers"
 ---
 
 # What is Whitepaper?
