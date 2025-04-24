@@ -8,6 +8,7 @@ title: "The True Energy Cost of Bitcoin PoW"
 블록체인을 공부하다 보니 문득 비트코인을 채굴을 하면서 드는 에너지와 비용이 아깝다는 생각이 들었다.
 찾아보니 나만 이런 생각을 하는 게 아니라는 것을 알았다. 
 비트코인으로 인한 에너지 소비가 얼마나 되고 있는지 직관적으로 보여주는 사이트를 찾았다. 
+
 [Bitcoin Energy Consumption Index] (https://digiconomist.net/bitcoin-energy-consumption)
 
 비트코인 1개를 채굴하는 데 드는 비용:
