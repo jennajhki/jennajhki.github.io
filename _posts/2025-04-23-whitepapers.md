@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Crypto Whitepapers"
+comments: true
 ---
 
 # What is Whitepaper?
