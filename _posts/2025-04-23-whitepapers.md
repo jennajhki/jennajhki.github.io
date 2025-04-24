@@ -21,7 +21,7 @@ Whitepaper 백서란?
 
 1. 중앙시스템의 한계 및 전자 화폐 필요성- Why a Bankless Electronic Cash System Is Needed
 
-- 중앙시스템의 한계: 지나친 은행 등 중앙 기관(third parties (e.g., banks)) 의존 
+- 중앙시스템의 한계: 지나친 은행 등 중앙 기관(third parties e.g. banks) 의존 
 
 - 전자 화폐 필요성: 개인 간 직접 거래(P2P: Peer to Peer) 가능, 중앙 기관 없이도 안전한 거래 가능
 
