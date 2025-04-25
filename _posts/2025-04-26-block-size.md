@@ -41,7 +41,6 @@ comments: true
 
 ## Block Weight 계산 방식
 
-SegWit 이후, 블록의 크기를 다음과 같이 계산합니다:
+SegWit 이후, 블록의 크기를 다음과 같이 계산합니다
 
-```text
 Block Weight = (stripped size × 3) + total size
