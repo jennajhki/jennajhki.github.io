@@ -49,6 +49,26 @@ layout: default
           </aside>
         {% endif %}
         {{ content }}
+
+        {% if page.comments %}
+  <div id="giscus_thread"></div>
+  <script src="https://giscus.app/client.js"
+          data-repo="jennajhki/jennajhki.github.io"
+          data-repo-id="R_kgDOOeJMEQ"
+          data-category="General"
+          data-category-id="DIC_kwDOOeJMEc4CpaHV"
+          data-mapping="pathname"
+          data-strict="0"
+          data-reactions-enabled="1"
+          data-emit-metadata="0"
+          data-input-position="bottom"
+          data-theme="preferred_color_scheme"
+          data-lang="ko"
+          crossorigin="anonymous"
+          async>
+  </script>
+{% endif %}
+        
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
 
