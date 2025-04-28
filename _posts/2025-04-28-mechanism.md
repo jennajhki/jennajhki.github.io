@@ -79,6 +79,7 @@ There is always a trade-off between speed, security, energy efficiency, and dece
 ---
 
 이 외에 합의 알고리즘들
+
 <small> 
 - Proof of History (PoH) 시간순서 증명 - solana
 - Federated Byzantine Agreement (FBA) 그룹간 합의 - Stellar, Ripple
