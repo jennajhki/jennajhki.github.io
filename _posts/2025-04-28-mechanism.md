@@ -51,16 +51,25 @@ Consensus Mechanism 합의 알고리즘이란 무엇인가?
   * 빠른 합의 가능
   * 네트워크 부담이 큼 (메시지 교환량)
 
-## 📊 합의 알고리즘 비교표
+## 📊 Consensus Mechanism Comparison Table 합의 알고리즘 비교표
 
-| 항목 | PoW | PoS | DPoS | PBFT |
+| Category | PoW | PoS | DPoS | PBFT |
+|----------|-----|-----|------|------|
+| **Block Creation Method** | Solve cryptographic puzzles | Stake coins to become eligible | Elected delegates create blocks | Consensus through message exchanges |
+| **Speed** | Slow | Fast | Very fast | Very fast |
+| **Energy Consumption** | Very high | Very low | Very low | Low |
+| **Security Level** | Very high | High | Moderate | High |
+| **Degree of Decentralization** | Very high | High | Can be low (due to delegate concentration) | Low (typically private chains) |
+| **Representative Projects** | Bitcoin | Ethereum 2.0, Cardano | EOS, Tron | Hyperledger Fabric |
+
+
 |------|-----|-----|------|------|
-| 블록 생성 방식 | 퍼즐 풀이 | 스테이킹 | 투표로 선출된 대표자 | 메시지 교환으로 합의 |
-| 속도 | 느림 | 빠름 | 매우 빠름 | 매우 빠름 |
-| 에너지 소비 | 매우 높음 | 매우 낮음 | 매우 낮음 | 낮음 |
-| 보안성 | 매우 높음 | 높음 | 보통 | 높음 |
-| 탈중앙화 정도 | 매우 높음 | 높음 | 낮을 수 있음 | 낮음 (프라이빗) |
-| 대표 사용 프로젝트 | 비트코인 | 이더리움 2.0 | EOS, Tron | Hyperledger |
+| Block Creation Method 블록 생성 방식 | 퍼즐 풀이 | 스테이킹 | 투표로 선출된 대표자 | 메시지 교환으로 합의 |
+| Speed 속도 | 느림 | 빠름 | 매우 빠름 | 매우 빠름 |
+| Energy Consumption 에너지 소비 | 매우 높음 | 매우 낮음 | 매우 낮음 | 낮음 |
+| Security Level 보안성 | 매우 높음 | 높음 | 보통 | 높음 |
+| Degree of Decentralization 탈중앙화 정도 | 매우 높음 | 높음 | 낮을 수 있음 | 낮음 (프라이빗) |
+| Representative Projects 대표 사용 프로젝트 | 비트코인 | 이더리움 2.0 | EOS, Tron | Hyperledger |
 
 ---
 
