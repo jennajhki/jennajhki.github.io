@@ -80,13 +80,11 @@ There is always a trade-off between speed, security, energy efficiency, and dece
 
 이 외에 합의 알고리즘들
 
-<small>
 <ul>
-  <li>Proof of History (PoH) - 시간순서 증명 - Solana</li>
-  <li>Federated Byzantine Agreement (FBA) - 그룹 간 합의 - Stellar, Ripple</li>
-  <li>Proof of Authority (PoA) - 신뢰받는 검증자 목록에서 생성 및 검증 - VeChain, POA Network</li>
-  <li>Proof of Burn (PoB) - 코인 소각으로 권리 획득 - Slimcoin</li>
-  <li>Proof of Elapsed Time (PoET) - 신뢰하는 하드웨어 기반 - Hyperledger Sawtooth</li>
-  <li>Proof of Capacity (PoC) - 하드디스크에 데이터 미리 계산 - Chia Network</li>
+  <li><small>Proof of History (PoH) - 시간순서 증명 - Solana</small></li>
+  <li><small>Federated Byzantine Agreement (FBA) - 그룹 간 합의 - Stellar, Ripple</small></li>
+  <li><small>Proof of Authority (PoA) - 신뢰받는 검증자 목록에서 생성 및 검증 - VeChain, POA Network</small></li>
+  <li><small>Proof of Burn (PoB) - 코인 소각으로 권리 획득 - Slimcoin</small></li>
+  <li><small>Proof of Elapsed Time (PoET) - 신뢰하는 하드웨어 기반 - Hyperledger Sawtooth</small></li>
+  <li><small>Proof of Capacity (PoC) - 하드디스크에 데이터 미리 계산 - Chia Network</small></li>
 </ul>
-</small>
