@@ -63,13 +63,14 @@ Consensus Mechanism 합의 알고리즘이란 무엇인가?
 | **Representative Projects** | Bitcoin | Ethereum 2.0, Cardano | EOS, Tron | Hyperledger Fabric |
 
 
+| 항목 | PoW | PoS | DPoS | PBFT |
 |------|-----|-----|------|------|
-| Block Creation Method 블록 생성 방식 | 퍼즐 풀이 | 스테이킹 | 투표로 선출된 대표자 | 메시지 교환으로 합의 |
-| Speed 속도 | 느림 | 빠름 | 매우 빠름 | 매우 빠름 |
-| Energy Consumption 에너지 소비 | 매우 높음 | 매우 낮음 | 매우 낮음 | 낮음 |
-| Security Level 보안성 | 매우 높음 | 높음 | 보통 | 높음 |
-| Degree of Decentralization 탈중앙화 정도 | 매우 높음 | 높음 | 낮을 수 있음 | 낮음 (프라이빗) |
-| Representative Projects 대표 사용 프로젝트 | 비트코인 | 이더리움 2.0 | EOS, Tron | Hyperledger |
+| 블록 생성 방식 | 퍼즐 풀이 | 스테이킹 | 투표로 선출된 대표자 | 메시지 교환으로 합의 |
+| 속도 | 느림 | 빠름 | 매우 빠름 | 매우 빠름 |
+| 에너지 소비 | 매우 높음 | 매우 낮음 | 매우 낮음 | 낮음 |
+| 보안성 | 매우 높음 | 높음 | 보통 | 높음 |
+| 탈중앙화 정도 | 매우 높음 | 높음 | 낮을 수 있음 | 낮음 (프라이빗) |
+| 대표 사용 프로젝트 | 비트코인 | 이더리움 2.0 | EOS, Tron | Hyperledger |
 
 ---
 
