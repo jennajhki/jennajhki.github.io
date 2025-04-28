@@ -85,4 +85,5 @@ There is always a trade-off between speed, security, energy efficiency, and dece
 - Proof of Authority (PoA) 신뢰받는 검증자 목록에서 생성 및 검증 - VeChain, POA Network
 - Proof of Burn (PoB) 코인 소각으로 권리 획득 - Slimcoin
 - Proof of Elapsed Time (PoET) 신뢰하는 하드웨어 기반 - Hyperledger Sawtooth
-- Proof of Capacity (PoC) 하드디스크에 데이터 미리 계산 - Chia Network </small>
+- Proof of Capacity (PoC) 하드디스크에 데이터 미리 계산 - Chia Network
+</small>
