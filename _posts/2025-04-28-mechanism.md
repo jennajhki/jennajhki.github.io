@@ -5,13 +5,13 @@ tags: [blockchain, consensus, pow, pos, dpos, bft]
 comments: true
 ---
 
-Consensus Mechanism 합의 알고리즘 블록체인 핵심 개념 쉽게 이해하기 🔗
+Consensus Mechanism 블록체인 핵심 개념 쉽게 이해하기 🔗
 
 Consensus Mechanism 합의 알고리즘이란 무엇인가?
 
 탈중앙화된 네트워크의 여러 참가자들이 하나의 동일한 데이터 상태에 동의하고 기록하기 위해 사용하는 규칙과 절차
 
-블록체인은 수많은 컴퓨터(노드)들이 "모두 같은 데이터를 가지고 있다"는 것을 믿을 수 있게 하는 시스템입니다.
+블록체인은 수많은 컴퓨터(노드)들이 "모두 같은 데이터를 가지고 있다"는 것을 믿을 수 있게 하는 시스템
 
 합의 알고리즘의 역할
 
