@@ -72,5 +72,9 @@ Consensus Mechanism 합의 알고리즘이란 무엇인가?
 | 탈중앙화 정도 | 매우 높음 | 높음 | 낮을 수 있음 | 낮음 (프라이빗) |
 | 대표 사용 프로젝트 | 비트코인 | 이더리움 2.0 | EOS, Tron | Hyperledger |
 
+There is always a trade-off between speed, security, energy efficiency, and decentralization in blockchain systems.
+
+속도, 보안성, 에너지 효율, 탈중앙화 수준은 항상 트레이드오프 관계입니다.
+
 ---
 
