@@ -80,8 +80,7 @@ There is always a trade-off between speed, security, energy efficiency, and dece
 
 이 외에 합의 알고리즘들
 
-<small> 
-- Proof of History (PoH) 시간순서 증명 - solana
+<small>- Proof of History (PoH) 시간순서 증명 - solana
 - Federated Byzantine Agreement (FBA) 그룹간 합의 - Stellar, Ripple
 - Proof of Authority (PoA) 신뢰받는 검증자 목록에서 생성 및 검증 - VeChain, POA Network
 - Proof of Burn (PoB) 코인 소각으로 권리 획득 - Slimcoin
