@@ -14,9 +14,12 @@ comments: true
 - **HTML**은 웹페이지를 구성하는 뼈대다.
 - 웹브라우저가 읽을 수 있는 언어로, 텍스트, 이미지, 링크 등을 정의한다.
 
-```html
+---
+<pre><code>
 <h1>Hello, Web!</h1>
 <p>이건 HTML로 만든 문단입니다.</p>
+</code></pre>
+---
 
 ## URL (Uniform Resource Locator)
 URL은 웹상 자원의 "주소"
