@@ -26,12 +26,26 @@ URL은 웹상 자원의 "주소"
 
 우리가 주소창에 입력하는 https://www.example.com/about 같은 것
 
-https://www.example.com:443/about?page=1
+---
+[https://www.example.com:443/about?page=1
 └── 프로토콜 (https)
     └── 도메인 (www.example.com)
         └── 포트번호 (443, 생략 가능)
             └── 경로 (/about)
                 └── 쿼리 (?page=1)
+](https://www.example.com:443/about?page=1
+
+┌─────────────────────────────┐
+│         URL 구성요소        │
+├─────────────────────────────┤
+│ Protocol   : https           │
+│ Domain     : www.example.com │
+│ Port       : 443 (optional)  │
+│ Path       : /about          │
+│ Query      : ?page=1         │
+└─────────────────────────────┘
+)
+---
 
 ## HTTP (HyperText Transfer Protocol)
 
