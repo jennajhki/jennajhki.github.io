@@ -27,7 +27,7 @@ URL은 웹상 자원의 "주소"
 우리가 주소창에 입력하는 https://www.example.com/about 같은 것
 
 ---
-https://www.example.com:443/about?page=1
+예시) https://www.example.com:443/about?page=1
 
 | 구성 요소    | 값                    | 설명 |
 |-------------|-----------------------|------|
