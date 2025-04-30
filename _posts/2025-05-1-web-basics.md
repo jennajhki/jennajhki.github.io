@@ -29,15 +29,13 @@ URL은 웹상 자원의 "주소"
 ---
 https://www.example.com:443/about?page=1
 
-┌─────────────────────────────┐
-│         URL 구성요소        │
-├─────────────────────────────┤
-│ Protocol   : https           │
-│ Domain     : www.example.com │
-│ Port       : 443 (optional)  │
-│ Path       : /about          │
-│ Query      : ?page=1         │
-└─────────────────────────────┘
+| 구성 요소    | 값                    | 설명 |
+|-------------|-----------------------|------|
+| **Protocol** | `https`               | 통신 방식 (보통 http 또는 https) |
+| **Domain**   | `www.example.com`     | 서버 주소 (호스트 이름) |
+| **Port**     | `443`                 | 통신에 사용하는 포트 번호 (생략 가능, https의 기본은 443) |
+| **Path**     | `/about`              | 요청한 리소스의 경로 |
+| **Query**    | `?page=1`             | 서버에 전달할 추가 정보 (쿼리 문자열) |
 
 ---
 
