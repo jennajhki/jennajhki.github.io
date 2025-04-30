@@ -7,7 +7,7 @@ comments: true
 
 # 웹의 기본 구성요소
 
-**HTML, HTTP, URL, 클라이언트(Client), 서버(Server)**
+HTML, HTTP, URL, 클라이언트(Client), 서버(Server)
 
 ## HTML (HyperText Markup Language)
 
