@@ -19,6 +19,11 @@ HTML, HTTP, URL, 클라이언트(Client), 서버(Server)
 <h1>Hello, Web!</h1>
 <p>이건 HTML로 만든 문단입니다.</p>
 </code></pre>
+
+eg.<pre><code>
+<h1>Hello, Web!</h1>
+<p>이건 HTML로 만든 문단입니다.</p>
+</code></pre> --
 ---
 
 ## URL (Uniform Resource Locator)
